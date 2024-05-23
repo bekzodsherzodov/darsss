@@ -1,0 +1,387 @@
+}
+.container {
+    width: 1180px;
+    margin: 0 auto;
+    padding: 0 20px;
+    
+}
+.navigation {
+    list-style: none;
+    gap: 40px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.flex {
+    display: flex;
+   
+}
+.justify-between {
+    justify-content: space-between;
+    margin-right: 1300px;
+   
+}
+.items-start{
+    align-items: center;
+    margin-left: 80px;
+}
+nav a{
+color: #101010;
+
+}
+.src{
+width: 156px;
+height: 41px;
+border-radius: 10px;
+color: white;
+background: #101010;
+box-shadow: 10px 40px 50px 0px #e5e9f666;
+margin-right: 300px;
+}
+.style{
+    padding-left: 920px;
+    padding-top: 20px;
+}
+.title{
+    padding-top: 20px;
+
+}
+hr{
+    margin-top: 30px;
+    color: rgb(107, 105, 105);
+}
+.h-1{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-left: 70px;
+    margin-top: 100px;
+    
+}
+ .zzx{
+width: 168px;
+height: 59px;
+margin-left: 70px;
+background-color: #1AAB7B; 
+border-radius: 10px;
+margin-top: 50px;
+margin-bottom: 100px;
+
+
+
+}
+.zzx:hover{
+    cursor: pointer;
+    background-color: #1AAB7B;
+    box-shadow: 1px 5px 5px 5px rgb(129, 29, 29);
+    transform: translateY(-4px);
+} 
+.zzx::after{
+    box-shadow: 10px 10px 20px 20px black;
+    transform: translateY(0);
+}
+.sit p{
+    margin-left: 70px;
+   
+}
+.at{
+    width: 592px;
+    height: 334px;
+    top: 181px;
+    left: 736px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 5px;
+    
+}
+.sit{
+    gap: 131px;
+    
+}
+.at{
+margin-right: 200px;
+}
+.kip{
+    background-color: #F2F4F6;
+    width: 100%;
+    height: 100% ;
+}
+.skol{
+    font-family: Plus Jakarta Sans;
+font-size: 36px;
+font-weight: 600;
+line-height: 50.4px;
+text-align: center;
+padding-top: 40px;
+}
+.player{
+    width: 400px;
+    height: 358px;
+    background-color:#E1E7ED; 
+    padding: 40px 40px 30px 30px; 
+    border-radius: 6px;
+    border: 1px solid rgb(223, 223, 223);
+    
+}
+
+.player:hover{
+background-color: #1AAB7B;
+color: white;
+cursor: pointer;
+
+}
+
+    
+
+.help{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    
+    
+}
+.help>h1{
+    font-family: Plus Jakarta Sans;
+font-size: 32px;
+font-weight: 600;
+line-height: 44.8px;
+text-align: left;
+display: flex;
+
+
+}
+.jus{
+    margin-bottom: 80px;  
+}
+.all{
+    margin-bottom: 80px;
+}
+.sss{
+    width: 108px;
+height: 28px;
+top: 290px;
+left: 30px;
+gap: 0px;
+opacity: 0px;
+color: #101010;
+font-family: Plus Jakarta Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+}
+.br{
+    width: 108px;
+    height: 28px;
+    top: 290px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    color: #101010;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    
+}
+.semiya{
+    width: 108px;
+    height: 28px;
+    top: 290px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    color: #f3f3f3;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+}
+.ddd{
+    display: flex;
+    gap: 70px;
+    margin-left: 210px;
+    margin-top: 40px;
+    
+}
+.kiop{
+    width: 410px;
+    height: 358px;
+    background-color:#E1E7ED; 
+    padding: 40px 40px 30px 30px; 
+    border-radius: 6px;
+    border: 1px solid rgb(223, 223, 223);
+    
+}
+.kiop:hover{
+    background-color: #1AAB7B;
+color: white;
+cursor: pointer;
+
+}
+.manga{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .tx{ 
+        width: 411px; 
+        height: 100px; 
+        text-align: center; 
+        margin: 0 auto; 
+    } 
+    .ozi{ 
+        width: 1216px; 
+        height: 515px; 
+        margin: 100px; 
+        padding-top: 80px; 
+        background-image: url("./assets/images/photo_2024-05-15_12-41-43.jpg"); 
+        margin-left: 280px;
+    } 
+    form{ 
+        background-color: rgba(0, 0, 0, 0.5); 
+        width: 50%; 
+        height: 380px; 
+        margin: 0 auto; 
+        display: flex; 
+        flex-direction: column; 
+        gap: 50px; 
+        align-items: center; 
+        color: aliceblue; 
+        padding: 40px 80px; 
+     
+    } 
+    input{ 
+        border: none; 
+        border-bottom: 3px solid white; 
+        background: transparent; 
+        width: 100%; 
+        
+    } 
+    form>label{ 
+        display: flex; 
+        flex-direction: column; 
+        width: 100%; 
+    } 
+    form>button{ 
+        background-color: #1AAB7B; 
+        color:#FFFFFF ; 
+        border-radius: 6px; 
+        padding: 20px 88px ; 
+        border: none; 
+        font-family: Plus Jakarta Sans; 
+        font-size: 16px; 
+        font-weight: 700; 
+        line-height: 19.2px; 
+        text-align: center; 
+     
+    } 
+    .gta{ 
+        width: 100%; 
+        height: 278px; 
+        background-color: black; 
+        color: aliceblue; 
+    } 
+    .flex{ 
+        width: 100%; 
+        height: 100%; 
+        display: flex; 
+        align-items: center; 
+        justify-content: space-between; 
+    } 
+    footer>.container{ 
+        width: 1216px; 
+        height: 100%; 
+    }
+    
+    .popo{
+        padding-top: 20px;
+        padding-right: 10pxs;
+    }
+}
+.ooo{
+    font-family: Plus Jakarta Sans;
+font-size: 32px;
+font-weight: 600;
+line-height: 44.8px;
+text-align: left;
+display: flex;
+}
+.dop{
+    width: 324px;
+    height: 135px;
+    top: 105px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+ margin-top: 50px;    
+}
+.opi{
+    width: 108px;
+    height: 28px;
+    top: 290px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    color: #101010;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    
+    
+}
+.yoq{
+    display: flex;
+}
+.ccc{
+    margin-left: 170px;
+    margin-top: 5px;
+}
+.sii{
+    font-family: Plus Jakarta Sans;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 44.8px;
+    text-align: left;
+    display: flex;
+}
+.do{
+    display: flex;
+    gap: 50px;
+    margin-left: 210px;
+    margin-top: 20px;
+    
+}
+.moris{
+    background:white;
+    width: 100%;
+    height: 100%auto;
+    top: 1773px;
+    left: 112px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    opacity: 0px;
+
+    
+}
+.moris>h1{
+    font-family: Plus Jakarta Sans;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 50.4px;
+    text-align: center;
+    padding-top: 100px;
+}
+.moris>p{
+    font-family: Plus Jakarta Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: center;
+color: #636F87;
+margin-top: 40px;
